@@ -1,0 +1,30 @@
+1. Tell me about your self?		
+2. Tell me abou your project?
+3. what kind of tools used in your project?
+4. what is source control management tool? why we need?
+5.what is branching srorage?
+6. what is CI/CD ? how will you do?
+7. what is service connection?
+8. which services used azure cloud in your project?
+9. which methodology used in your project?.
+10. what are the steps build in CI?
+11. what is the merge command ?
+12.difference between merge command and rebase command?
+13.what is CD? how will use?
+14. how to create VM?
+15. how to add disk space in vm's?
+16. what is terafrom?
+17. How to create the service in cloud by using terafrom?
+18. what is state file?
+19. difference between IAAS and PAAS ?
+20. what is azure active directory?
+21. How many cloud service roles are provided by Azure?
+22. what is availability set in Azure ?
+23. what is NSG ?
+24. what is AZURE blob storage ?
+25. What is the scalability of cloud computing?
+26. what is azure resoure manager ?
+27. define azure storage key ?
+28. what is Vnet?
+29. difference between public cloud and private cloud?
+30. what is  cloud computing?
