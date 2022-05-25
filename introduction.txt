@@ -1,0 +1,78 @@
+Can u please introduce your self?
+
+Hi , This is --yourname---.i have --3/4/5/6..years of experience as a SQL Server dba.
+Comming to my education...
+i have completed my-- graduation\pg--- from universityname  in year--- mention year--
+comming to my work experience...
+currently working with---company name------. and 
+previously worked with ----company name------.
+
+Currently i am working for a project--yourprojectname---.
+Previously i worked for the project..
+
+In the current project i am working on activities like...
+
+Installation of SQL server,
+configuring databases,
+taking backups and restores
+creating and managing the users
+working on performance issue,
+and working oh High availability technilogies like log shipping anf mirroring and clustering and always on
+and apart from upgradation and migration activities.
+
+currently we are 8 member team and working in 24/7 support.
+
+This is my introduction...
+===============
+Can u please explain what u do when u go to office? or what is general day looks like? or what r ur daily activities ?
+
+When i go to office first i will take the shift handover.(shift handover means taking the pending tickets information and foloowups information and any change activitis information) then in my 8 hours shift, i will be managing the tickets and change activities.
+
+tickets like disk space issue, bkp failure and blocking and job failure and user access and performance issues and
+
+changes like new installation and backup and restore activities and new user creation and HA configurationa nd upgrades and migrations...
+
+===========
+
+what is the level of support u do ?
+
+exp is --> 2y-->l1
+        3-4 Y-->l1 
+         5y--> l2 and l3.
+=======
+how many servers and dbs ur supporting ?
+
+100,110,120,130...( any one no) && dbs--> every server avg 10-15 dbs. like
+100 servers--1400 dbs
+120 server-1500 dbs
+140 server-->2000 dbs
+150 server-2500 dbs.
+======
+what is the monitoring tool ur using? or how will u monitor ur servers?
+
+we use monitoring tool called TIVOLI\SCOM\SOLAR WINDS.
+
+tivoli client will be installed in the every server and if any issue comes it will provide the alert and ticket.
+========
+what is the ticketing tool us use?
+
+service now\remedy\HP service manager.
+
+=================
+how many people will be there in 1 shift
+
+1 or 2 members
+=========
+if query running slow how will u troubleshoot ? or how will u troubleshoot slow runing query ?
+we will check below things to troublehsoot issue..
+====
+1. blocking
+2. deadlocks
+3.database growth settings.
+4.we veify CPU and MEMORY issue.
+5.we chk fragmentation 
+6. we chk missing indexes
+7. we chk statistics
+8. we verify poor running queries, and we will verify them in execution plan to troubleshoot issues.
+
+
